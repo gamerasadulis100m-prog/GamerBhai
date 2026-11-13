@@ -1,7 +1,7 @@
 // =======================================================
 // WEBSITE NAME (NICKNAME)
 // =======================================================
-var website_name = "GameTopUpBD";
+var website_name = "MrATopUpBD";
 
 // =======================================================
 // TELEGRAM CHANNEL LINK
